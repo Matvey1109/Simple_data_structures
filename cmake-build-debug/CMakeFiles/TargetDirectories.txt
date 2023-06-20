@@ -1,0 +1,4 @@
+/Users/mac/Desktop/simple_data_structures/cmake-build-debug/CMakeFiles/simple_data_structures.dir
+/Users/mac/Desktop/simple_data_structures/cmake-build-debug/CMakeFiles/sort.dir
+/Users/mac/Desktop/simple_data_structures/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mac/Desktop/simple_data_structures/cmake-build-debug/CMakeFiles/rebuild_cache.dir
